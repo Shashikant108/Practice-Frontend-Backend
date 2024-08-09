@@ -1,0 +1,19 @@
+.back{
+    color:rgb(199, 31, 31);
+    /* margin-left: 1400px; */
+    display: flex;
+    justify-content: end;
+    margin-right: 16px;
+}
+
+.result{
+    font-size: 2rem;
+    color: rgb(164, 105, 45);
+    display: flex;
+    justify-content: center;
+  
+
+}
+.result2{
+    text-decoration: underline;
+}
